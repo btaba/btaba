@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=btaba&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark&hide_rank=true"/>
 <!--
 **btaba/btaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
